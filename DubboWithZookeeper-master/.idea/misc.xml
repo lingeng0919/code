@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/center-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/center-mulit-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/center-multi-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/center-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/link-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/link-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/link-userservice-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/link-userservice-provider" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/link-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/link-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/link-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/link-userservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/link-userservice-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/center-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/center-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/center-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/center-multi-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/center-mulit-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

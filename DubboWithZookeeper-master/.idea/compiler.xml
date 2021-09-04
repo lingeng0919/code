@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="center-interface" />
+        <module name="link-provider" />
+        <module name="link-consumer" />
+        <module name="link-userservice-provider" />
+        <module name="link-userservice-consumer" />
+        <module name="center-multi-provider" />
+        <module name="center-provider" />
+        <module name="center-consumer" />
+        <module name="link-interface" />
+        <module name="center-mulit-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="center-consumer" target="1.8" />
+      <module name="center-interface" target="1.5" />
+      <module name="center-mulit-consumer" target="1.8" />
+      <module name="center-multi-provider" target="1.8" />
+      <module name="center-provider" target="1.8" />
+      <module name="link-consumer" target="1.8" />
+      <module name="link-interface" target="1.5" />
+      <module name="link-provider" target="1.8" />
+      <module name="link-userservice-consumer" target="1.8" />
+      <module name="link-userservice-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

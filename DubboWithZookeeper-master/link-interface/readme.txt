@@ -1,0 +1,2 @@
+link-interface是一个maven java工程，是dubbo官方推荐使用的一个模式
+将是以bean和业务接口存放到接口工程中

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="center-provider:war">
+    <output-path>$PROJECT_DIR$/center-provider/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>center-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="center-provider-1.0.3.war">
+      <element id="artifact" artifact-name="center-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

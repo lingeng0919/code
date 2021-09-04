@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DubboWithZookeeper-master.iml" filepath="$PROJECT_DIR$/.idea/DubboWithZookeeper-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-consumer/center-consumer.iml" filepath="$PROJECT_DIR$/center-consumer/center-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-interface/center-interface.iml" filepath="$PROJECT_DIR$/center-interface/center-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-mulit-consumer/center-mulit-consumer.iml" filepath="$PROJECT_DIR$/center-mulit-consumer/center-mulit-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-multi-provider/center-multi-provider.iml" filepath="$PROJECT_DIR$/center-multi-provider/center-multi-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-provider/center-provider.iml" filepath="$PROJECT_DIR$/center-provider/center-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/link-consumer/link-consumer.iml" filepath="$PROJECT_DIR$/link-consumer/link-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/link-interface/link-interface.iml" filepath="$PROJECT_DIR$/link-interface/link-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/link-provider/link-provider.iml" filepath="$PROJECT_DIR$/link-provider/link-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/link-userservice-consumer/link-userservice-consumer.iml" filepath="$PROJECT_DIR$/link-userservice-consumer/link-userservice-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/link-userservice-provider/link-userservice-provider.iml" filepath="$PROJECT_DIR$/link-userservice-provider/link-userservice-provider.iml" />
+    </modules>
+  </component>
+</project>

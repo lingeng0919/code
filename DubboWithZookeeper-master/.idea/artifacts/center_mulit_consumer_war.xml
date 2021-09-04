@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="center-mulit-consumer:war">
+    <output-path>$PROJECT_DIR$/center-mulit-consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>center-mulit-consumer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="center-mulit-consumer-1.0.3.war">
+      <element id="artifact" artifact-name="center-mulit-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>
